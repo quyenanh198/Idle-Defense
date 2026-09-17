@@ -1,0 +1,32 @@
+{
+  "language": "en",
+  "entries": [
+    {"key":"game.title","value":"IDLE HERO DEFENSE"},
+    {"key":"nav.home","value":"HOME"},
+    {"key":"nav.heroes","value":"HEROES"},
+    {"key":"nav.battle","value":"BATTLE"},
+    {"key":"nav.summon","value":"SUMMON"},
+    {"key":"nav.shop","value":"SHOP"},
+    {"key":"home.idle_chest","value":"IDLE CHEST"},
+    {"key":"home.claim","value":"CLAIM REWARD"},
+    {"key":"home.continue","value":"CONTINUE CAMPAIGN"},
+    {"key":"home.achievements","value":"ACHIEVEMENTS"},
+    {"key":"home.daily_quests","value":"DAILY QUESTS"},
+    {"key":"home.weekly_quests","value":"WEEKLY QUESTS"},
+    {"key":"home.inbox","value":"INBOX"},
+    {"key":"heroes.title","value":"HEROES"},
+    {"key":"heroes.formation","value":"ACTIVE FORMATION"},
+    {"key":"summon.title","value":"SUMMON"},
+    {"key":"shop.title","value":"SHOP"},
+    {"key":"settings.title","value":"SETTINGS & ACCESSIBILITY"},
+    {"key":"settings.music","value":"Music"},
+    {"key":"settings.sound","value":"Sound effects"},
+    {"key":"settings.motion","value":"Reduce motion and flashes"},
+    {"key":"settings.damage","value":"Show combat damage text"},
+    {"key":"settings.haptics","value":"Haptic feedback"},
+    {"key":"common.claim","value":"CLAIM"},
+    {"key":"common.claimed","value":"CLAIMED"},
+    {"key":"common.settings","value":"SETTINGS"},
+    {"key":"common.close","value":"CLOSE"}
+  ]
+}

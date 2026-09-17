@@ -1,0 +1,12 @@
+{
+  "name": "IdleHeroDefense.Runtime",
+  "rootNamespace": "IdleHeroDefense",
+  "references": [],
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
+
