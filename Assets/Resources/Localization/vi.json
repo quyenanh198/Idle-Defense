@@ -1,0 +1,32 @@
+{
+  "language": "vi",
+  "entries": [
+    {"key":"game.title","value":"PHÒNG THỦ ANH HÙNG"},
+    {"key":"nav.home","value":"NHÀ"},
+    {"key":"nav.heroes","value":"ANH HÙNG"},
+    {"key":"nav.battle","value":"CHIẾN ĐẤU"},
+    {"key":"nav.summon","value":"TRIỆU HỒI"},
+    {"key":"nav.shop","value":"CỬA HÀNG"},
+    {"key":"home.idle_chest","value":"RƯƠNG TREO MÁY"},
+    {"key":"home.claim","value":"NHẬN THƯỞNG"},
+    {"key":"home.continue","value":"TIẾP TỤC CHIẾN DỊCH"},
+    {"key":"home.achievements","value":"THÀNH TỰU"},
+    {"key":"home.daily_quests","value":"NHIỆM VỤ NGÀY"},
+    {"key":"home.weekly_quests","value":"NHIỆM VỤ TUẦN"},
+    {"key":"home.inbox","value":"HỘP THƯ"},
+    {"key":"heroes.title","value":"ANH HÙNG"},
+    {"key":"heroes.formation","value":"ĐỘI HÌNH HIỆN TẠI"},
+    {"key":"summon.title","value":"TRIỆU HỒI"},
+    {"key":"shop.title","value":"CỬA HÀNG"},
+    {"key":"settings.title","value":"CÀI ĐẶT & HỖ TRỢ"},
+    {"key":"settings.music","value":"Âm nhạc"},
+    {"key":"settings.sound","value":"Hiệu ứng âm thanh"},
+    {"key":"settings.motion","value":"Giảm chuyển động và chớp sáng"},
+    {"key":"settings.damage","value":"Hiện sát thương chiến đấu"},
+    {"key":"settings.haptics","value":"Phản hồi rung"},
+    {"key":"common.claim","value":"NHẬN"},
+    {"key":"common.claimed","value":"ĐÃ NHẬN"},
+    {"key":"common.settings","value":"CÀI ĐẶT"},
+    {"key":"common.close","value":"ĐÓNG"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "campaignGold": 100,
+  "dailyDungeonGold": 300,
+  "towerBaseGold": 150,
+  "towerGoldPerFloor": 25,
+  "towerGemInterval": 5,
+  "towerGemReward": 20,
+  "dailyDungeonAttempts": 3,
+  "idleCapHours": 8,
+  "events": []
+}

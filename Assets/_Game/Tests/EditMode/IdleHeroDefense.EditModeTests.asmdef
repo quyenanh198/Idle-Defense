@@ -1,0 +1,12 @@
+{
+  "name": "IdleHeroDefense.EditModeTests",
+  "rootNamespace": "IdleHeroDefense.Tests",
+  "references": ["IdleHeroDefense.Runtime", "IdleHeroDefense.Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": false,
+  "overrideReferences": false,
+  "precompiledReferences": ["nunit.framework.dll"],
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+  "noEngineReferences": false
+}
